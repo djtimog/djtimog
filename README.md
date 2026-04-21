@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ogunleye Christian</h1>
 <h5> also known as Djtimog </h5>
-<h3 align="center">A passionate Frontend Developer from Nigeria 🇳🇬</h3>
+<h3 align="center">A passionate Full Stack Developer from Nigeria 🇳🇬</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=djtimog&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
