@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ogunleye Christian</h1>
-<h5> also known as Djtimog </h5>
-<h3 align="center">A passionate Full Stack Developer from Nigeria 🇳🇬</h3>
-
+<h1 align="center">Hi 👋, I'm Christian Ogunleye</h1>
+<h3 align="center">Software Engineer · Full Stack & Backend · Nigeria 🇳🇬</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=djtimog&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
@@ -9,11 +7,15 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Web & Frontend Projects**
-- 🌱 I’m learning **MongoDB & DevOps**
-- 👯 I’m looking to collaborate on **Fullstack Projects**
-- 💬 Ask me about **React, TypeScript, Next.js**
+
+My journey into software engineering started with a Mathematics degree. I've spent the past two years going deeper into the stack — from React and Next.js frontends, to GraphQL and REST APIs with Node.js, to cross-platform mobile apps with React Native and Expo. I'm currently enrolled in a backend engineering program covering C, C++, Python, Java, and .NET, while completing the Full Stack Open curriculum from the University of Helsinki.
+
+- 🔭 Currently building with **React Native, Node.js, GraphQL**
+- 🌱 Deepening backend skills in **C/C++, Python, Java, .NET**
+- 🧪 Learning **Playwright, Vitest, CI/CD, Docker**
+- 💬 Ask me about **React, TypeScript, GraphQL, REST APIs**
 - 📫 Reach me at **ogunleyetimilehin15@gmail.com**
+- 🌐 Portfolio: [djtimog-portfolio.vercel.app](https://djtimog-portfolio.vercel.app)
 
 ---
 
@@ -31,24 +33,30 @@
 
 ### 🛠 Tech Stack
 
+#### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp" />
+</p>
+
 #### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
-#### Frameworks & Libraries
+#### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgresql,mongodb,mysql" />
 </p>
 
-#### Backend & Database
+#### Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <span>&nbsp;React Native / Expo</span>
 </p>
 
-#### Cloud & Tools
+#### Testing & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=vitest,playwright,docker,git,github,postman,vscode,vercel,firebase" />
 </p>
 
 ---
@@ -57,7 +65,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=djtimog&show_icons=true&theme=radical" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djtimog&layout=compact&theme=radical" />
 </p>
